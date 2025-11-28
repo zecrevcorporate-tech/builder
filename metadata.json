@@ -1,0 +1,5 @@
+{
+  "name": "SmartMeta Builder",
+  "description": "An AI-powered tool that automatically generates SEO meta titles and descriptions based on a URL or topic, desired tone, and brand personality.",
+  "requestFramePermissions": []
+}
